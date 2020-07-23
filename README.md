@@ -1,6 +1,6 @@
 # map_image_lemin
 
-This is a script to make an image of the paths that your lem-in uses, but with random coordinates.
+This is a script to make an image of the paths that your lem-in uses, but with random coordinates. With 'big' and 'big-superposition' maps the image can be unclear.
 
 ## Prerequisites
 
