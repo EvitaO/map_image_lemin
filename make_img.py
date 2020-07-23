@@ -4,7 +4,7 @@ import re
 from PIL import Image, ImageDraw
 def search_in_file(file_name, string):
     path = []
-    with open(file_name, 'r') as map:
+    with open(file_name, 'r', encoding="utf8", errors='ignore') as map:
         for line in map:
             if string in line:
                 path.append(line.rstrip())
