@@ -22,4 +22,4 @@ $ pyhton3 make_img.py < [filename]
 
 ## Example of the result
 
-![Image of results](example_results.png)
+![Image of results](example_map_result.png)
